@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCgarden", "MVCgarden\MVCgarden.csproj", "{813574D3-EA9D-44C2-B987-DA3880E440D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCgarden", "MVCgarden\MVCgarden.csproj", "{813574D3-EA9D-44C2-B987-DA3880E440D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTransport", "MVCTransport\MVCTransport.csproj", "{F39302B0-D15F-4054-A5BA-616B64CCB173}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{813574D3-EA9D-44C2-B987-DA3880E440D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{813574D3-EA9D-44C2-B987-DA3880E440D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{813574D3-EA9D-44C2-B987-DA3880E440D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39302B0-D15F-4054-A5BA-616B64CCB173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39302B0-D15F-4054-A5BA-616B64CCB173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39302B0-D15F-4054-A5BA-616B64CCB173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39302B0-D15F-4054-A5BA-616B64CCB173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
